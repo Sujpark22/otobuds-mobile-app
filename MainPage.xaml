@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="otobuds_mobile_app.MainPage">
+    <StackLayout>
+        <Entry x:Name="FileNameEntry" Placeholder="Enter file name" Margin="0, 5, 0, 0"/>
+        
+        <Button Text="Start Scanning" Clicked="OnStartClicked"  Margin="0, 5, 0, 0"/>
+        
+        <ListView x:Name="DevicesListView" ItemSelected="OnDeviceSelected">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" Detail="{Binding Id}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Picker x:Name="CommandPicker"  Margin="0, 5, 0, 5">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Play Command</x:String>
+                    <x:String>Chirp Config Command</x:String>
+                    <x:String>Mic Config Command</x:String>
+                    <x:String>Show Battery Level</x:String>
+                    <x:String>Rescan for Devices</x:String>
+                    <x:String>Disconnect</x:String>
+                    <x:String>Exit</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        <Button Text="Send Command" Clicked="OnSendCommandClicked"  Margin="0, 5, 0, 0"/>
+        <Label x:Name="OutputLabel" Text="Output will be displayed here"  Margin="0, 5, 0, 20"/>
+    </StackLayout>
+</ContentPage>
