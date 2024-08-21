@@ -1,1 +1,1 @@
-C:\Users\SU PARK\NET Maui\otobuds-mobile-app\otobuds-mobile-app.csproj;x64
+C:\Repo\otobuds-mobile-app\otobuds-mobile-app.csproj;x64

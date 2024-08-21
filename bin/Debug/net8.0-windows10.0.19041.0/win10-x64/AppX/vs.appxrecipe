@@ -10,7 +10,7 @@
     <PackageArchitecture>x64</PackageArchitecture>
     <PackageIdentityName>com.companyname.otobudsmobileapp</PackageIdentityName>
     <PackageIdentityPublisher>CN=User Name</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\</IntermediateOutputPath>
     <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
     <PackageRegistrationPath>
     </PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>
     </WindowsSdkPath>
-    <LayoutDir>C:\Users\SU PARK\NET Maui\otobuds-mobile-app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
+    <LayoutDir>C:\Repo\otobuds-mobile-app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppX</LayoutDir>
     <RegisteredManifestChecksum>207916566BF33B426E40DC7C3CE759032A63602CDDDE51693D5F9E4805393B25</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>com.companyname.otobudsmobileapp_1.0.0.1_x64__9zz4h110yvjzm</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>com.companyname.otobudsmobileapp_9zz4h110yvjzm!App</RegisteredUserModeAppID>
@@ -27,268 +27,268 @@
     <RegisteredVersion>1.0.0.1</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
+    <AppXManifest Include="C:\Repo\otobuds-mobile-app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-24T15:28:44.285</Modified>
+      <Modified>2024-08-21T02:49:17.452</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2024-07-24T08:02:53.871</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\otobuds-mobile-app.runtimeconfig.json">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\otobuds-mobile-app.runtimeconfig.json">
       <PackagePath>otobuds-mobile-app.runtimeconfig.json</PackagePath>
-      <Modified>2024-07-24T08:02:53.621</Modified>
+      <Modified>2024-08-09T03:08:28.149</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\otobuds-mobile-app.dll">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\otobuds-mobile-app.dll">
       <PackagePath>otobuds-mobile-app.dll</PackagePath>
-      <Modified>2024-07-24T15:28:37.827</Modified>
+      <Modified>2024-08-09T03:08:26.402</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>otobuds-mobile-app.exe</PackagePath>
-      <Modified>2024-07-24T15:28:38.099</Modified>
+      <Modified>2024-08-09T03:08:26.494</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\Resources\Raw\AboutAssets.txt">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
       <Modified>2024-07-22T06:34:43.547</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
       <Modified>2024-07-22T06:35:11.917</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
       <Modified>2024-07-22T06:35:11.936</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
       <Modified>2024-07-22T06:35:11.959</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
       <Modified>2024-07-22T06:35:12.001</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
       <Modified>2024-07-22T06:35:12.145</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
       <Modified>2024-07-22T06:34:43.432</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
       <Modified>2024-07-22T06:34:43.435</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
       <Modified>2024-07-22T06:35:13.623</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
       <Modified>2024-07-22T06:35:13.614</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
       <Modified>2024-07-22T06:35:13.613</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
       <Modified>2024-07-22T06:35:13.612</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
       <Modified>2024-07-22T06:35:13.612</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
       <Modified>2024-07-22T06:35:13.611</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
       <Modified>2024-07-22T06:35:13.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
       <Modified>2024-07-22T06:35:13.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
       <Modified>2024-07-22T06:35:13.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
       <Modified>2024-07-22T06:35:13.619</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
       <Modified>2024-07-22T06:35:13.619</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
       <Modified>2024-07-22T06:35:13.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
       <Modified>2024-07-22T06:35:13.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
       <Modified>2024-07-22T06:35:13.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
       <Modified>2024-07-22T06:35:13.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
       <Modified>2024-07-22T06:35:13.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
       <Modified>2024-07-22T06:35:13.623</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
       <Modified>2024-07-22T06:35:13.623</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
       <Modified>2024-07-22T06:35:13.623</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
       <Modified>2024-07-22T06:35:13.622</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
       <Modified>2024-07-22T06:35:13.622</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
       <Modified>2024-07-22T06:35:13.622</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
       <Modified>2024-07-22T06:35:13.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
       <Modified>2024-07-22T06:35:13.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
       <Modified>2024-07-22T06:35:13.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
       <Modified>2024-07-22T06:35:13.621</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
       <Modified>2024-07-22T06:35:13.616</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
       <Modified>2024-07-22T06:35:13.616</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
       <Modified>2024-07-22T06:35:13.616</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
       <Modified>2024-07-22T06:35:13.615</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
       <Modified>2024-07-22T06:35:13.615</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
       <Modified>2024-07-22T06:35:13.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
       <Modified>2024-07-22T06:35:13.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
       <Modified>2024-07-22T06:35:13.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
       <Modified>2024-07-22T06:35:13.616</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
       <Modified>2024-07-22T06:35:13.616</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
       <Modified>2024-07-22T06:35:13.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
       <Modified>2024-07-22T06:35:13.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
       <Modified>2024-07-22T06:35:13.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
       <Modified>2024-07-22T06:35:13.618</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
       <Modified>2024-07-22T06:35:13.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
       <Modified>2024-07-22T06:35:13.615</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
       <Modified>2024-07-22T06:35:13.615</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
       <Modified>2024-07-22T06:35:13.615</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
       <Modified>2024-07-22T06:35:13.614</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
       <Modified>2024-07-22T06:35:13.614</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
       <Modified>2024-07-22T06:35:13.624</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
       <Modified>2024-07-22T06:35:13.624</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
       <Modified>2024-07-22T06:35:13.624</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
       <Modified>2024-07-22T06:35:13.624</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2024-07-22T06:35:13.623</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\SU PARK\NET Maui\otobuds-mobile-app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\otobuds-mobile-app.deps.json">
+    <AppxPackagedFile Include="C:\Repo\otobuds-mobile-app\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\otobuds-mobile-app.deps.json">
       <PackagePath>otobuds-mobile-app.deps.json</PackagePath>
-      <Modified>2024-07-24T08:02:53.467</Modified>
+      <Modified>2024-08-09T03:08:27.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\SU PARK\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

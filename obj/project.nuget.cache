@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NtGzQFVF7EYjQ+AkHIGVVZEKeqIgU9P9SiPCA9+dL7B8Q+a9d05eNcXFoeSuS/kPBOWVpCb+Qdy+wheg1baWRg==",
+  "dgSpecHash": "SaeE+FMbnVHw5JUS0/bKAJgo+AKLdgLvSDgPTQoSzF2rbPvJGu5fMxu4BP3uy0iAXUt2uNJz6XR9B3g9qU1mag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SU PARK\\NET Maui\\otobuds-mobile-app\\otobuds-mobile-app.csproj",
+  "projectFilePath": "C:\\Repo\\otobuds-mobile-app\\otobuds-mobile-app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SU PARK\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\SU PARK\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

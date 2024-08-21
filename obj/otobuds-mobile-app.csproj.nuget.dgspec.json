@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SU PARK\\NET Maui\\otobuds-mobile-app\\otobuds-mobile-app.csproj": {}
+    "C:\\Repo\\otobuds-mobile-app\\otobuds-mobile-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SU PARK\\NET Maui\\otobuds-mobile-app\\otobuds-mobile-app.csproj": {
+    "C:\\Repo\\otobuds-mobile-app\\otobuds-mobile-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SU PARK\\NET Maui\\otobuds-mobile-app\\otobuds-mobile-app.csproj",
+        "projectUniqueName": "C:\\Repo\\otobuds-mobile-app\\otobuds-mobile-app.csproj",
         "projectName": "otobuds-mobile-app",
-        "projectPath": "C:\\Users\\SU PARK\\NET Maui\\otobuds-mobile-app\\otobuds-mobile-app.csproj",
+        "projectPath": "C:\\Repo\\otobuds-mobile-app\\otobuds-mobile-app.csproj",
         "packagesPath": "C:\\Users\\SU PARK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SU PARK\\NET Maui\\otobuds-mobile-app\\obj\\",
+        "outputPath": "C:\\Repo\\otobuds-mobile-app\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("otobuds-mobile-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+60bd3f9015e83e25396fb5399da29590438a9490")]
 [assembly: System.Reflection.AssemblyProductAttribute("otobuds-mobile-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("otobuds-mobile-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
